@@ -12,7 +12,7 @@ import time
 st.set_page_config(page_title="LawGPT")
 col1, col2, col3 = st.columns([1,4,1])
 with col2:
-    st.image("https://raw.githubusercontent.com/maheshbonthavnsu/lawgpt/refs/heads/main/images.jpg")
+    st.image("https://github.com/maheshbonthavnsu/lawgpt/blob/main/Untitled%20video%20-%20Made%20with%20Clipchamp.gif")
 
 st.markdown(
     """
